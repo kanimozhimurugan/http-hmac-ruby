@@ -1,5 +1,9 @@
 The MIT License (MIT)
+<<<<<<< HEAD
 Copyright (c) 2016 Acquia, Inc.
+=======
+Copyright (c) 2015 - 2016 Acquia, Inc.
+>>>>>>> upstream/2.0
 
 MIT License
 
